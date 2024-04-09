@@ -4,7 +4,7 @@
 
 I am a software engineer with a passion for solving complex problems. I have experience in various programming languages and technologies.
 
-Here's a picture of me:
+Here's a picture of me:  
 ![Image](portrait.jpg)
 
 ## Skills
